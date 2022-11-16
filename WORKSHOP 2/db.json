@@ -1,0 +1,144 @@
+{
+    "peliculas": [
+        {
+            "id": 1,
+            "nombre": "Encanto",
+            "imagen": "https://pics.filmaffinity.com/Encanto-246546841-large.jpg",
+            "calificacion": 8,
+            "genero": "Infantil"
+        },
+        {
+            "id": 2,
+            "nombre": "Rapido Y furioso 9",
+            "imagen": "https://pics.filmaffinity.com/R_pidos_y_furiosos_9-833854731-large.jpg",
+            "calificacion": 7,
+            "genero": "Accion"
+        },
+        {
+            "id": 3,
+            "nombre": "La huerfana",
+            "imagen": "https://pics.filmaffinity.com/La_hu_rfana-635291066-large.jpg",
+            "calificacion": 9,
+            "genero": "Terror"
+        },
+        {
+            "id": 4,
+            "nombre": "Spiderman",
+            "imagen": "https://pics.filmaffinity.com/Spider_Man-945131720-large.jpg",
+            "calificacion": 9,
+            "genero": "Accion"
+        },
+        {
+            "id": 5,
+            "nombre": "La mascara",
+            "imagen": "https://pics.filmaffinity.com/La_m_scara-746858956-large.jpg",
+            "calificacion": 8,
+            "genero": "Comedia"
+        },
+        {
+            "id": 6,
+            "nombre": "Los increibles",
+            "imagen": "https://pics.filmaffinity.com/Los_incre_bles-939387273-large.jpg",
+            "calificacion": 8,
+            "genero": "Infantil"
+        },
+        {
+            "id": 7,
+            "nombre": "La lista de Schlinder",
+            "imagen": "https://pics.filmaffinity.com/schindler_s_list-473662617-large.jpg",
+            "calificacion": 9,
+            "genero": "Drama"
+        },
+        {
+            "id": 8,
+            "nombre": "El barrendero",
+            "imagen": "https://pics.filmaffinity.com/El_barrendero-387908157-large.jpg",
+            "calificacion": 6,
+            "genero": "Comedia"
+        },
+        {
+            "id": 9,
+            "nombre": "Capitan America",
+            "imagen": "https://pics.filmaffinity.com/Capit_n_Am_rica_El_primer_vengador-163477639-mmed.jpg",
+            "calificacion": 8,
+            "genero": "Accion"
+        },
+        {
+            "id": 10,
+            "nombre": "Cars",
+            "imagen": "https://pics.filmaffinity.com/Cars-746710621-large.jpg",
+            "calificacion": 7,
+            "genero": "Infantil"
+        },
+        {
+            "id": 11,
+            "nombre": "Pixeles",
+            "imagen": "https://pics.filmaffinity.com/Pixeles-227870234-large.jpg",
+            "calificacion": 6,
+            "genero": "Comedia"
+        },
+        {
+            "id": 12,
+            "nombre": "Scream",
+            "imagen": "https://pics.filmaffinity.com/Scream-910653529-large.jpg",
+            "calificacion": 8,
+            "genero": "Terror"
+        },
+        {
+            "id": 13,
+            "nombre": "Coco",
+            "imagen": "https://pics.filmaffinity.com/Coco-155051069-large.jpg",
+            "calificacion": 9,
+            "genero": "Infantil"
+        },
+        {
+            "id": 14,
+            "nombre": "21 jump street",
+            "imagen": "https://pics.filmaffinity.com/21_Jump_Street-213438548-mmed.jpg",
+            "calificacion": 7,
+            "genero": "Comedia"
+        },
+        {
+            "id": 15,
+            "nombre": "Masacre en texas",
+            "imagen": "https://pics.filmaffinity.com/Masacre_en_Texas_Herencia_maldita-320406769-large.jpg",
+            "calificacion": 8,
+            "genero": "Terror"
+        },
+        {
+            "id": 16,
+            "nombre": "Ace ventura",
+            "imagen": "https://pics.filmaffinity.com/Ace_Ventura_un_detective_diferente-873331380-large.jpg",
+            "calificacion": 8,
+            "genero": "Comedia"
+        },
+        {
+            "id": 17,
+            "nombre": "Joker",
+            "imagen": "https://pics.filmaffinity.com/Joker-118854213-large.jpg",
+            "calificacion": 9,
+            "genero": "Drama"
+        },
+        {
+            "id": 18,
+            "nombre": "La vida es bella",
+            "imagen": "https://pics.filmaffinity.com/La_vida_es_bella-646167341-large.jpg",
+            "calificacion": 9,
+            "genero": "Drama"
+        },
+        {
+            "id": 19,
+            "nombre": "Colegas de barrio",
+            "imagen": "https://pics.filmaffinity.com/Los_colegas_del_barrio-114213632-large.jpg",
+            "calificacion": 8,
+            "genero": "Comedia"
+        },
+        {
+            "id": 20,
+            "nombre": "Toy story",
+            "imagen": "https://pics.filmaffinity.com/Toy_Story-626273371-large.jpg",
+            "calificacion": 8,
+            "genero": "Infantil"
+        }
+    ]
+}
